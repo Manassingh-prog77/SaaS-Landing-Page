@@ -22,11 +22,12 @@ import { motion } from "framer-motion";
 import { gradients } from "../../../../theme/theme"; // Ensure this path is correct
 
 // --- Data Structure for FAQs ---
+// --- Data Structure for FAQs ---
 const faqs = [
   {
     question: "What exactly is the ADmyBRAND AI Suite?",
     answer:
-      "It's an all-in-one marketing platform that uses artificial intelligence to automate, analyze, and optimize your campaigns. From generating ad copy to predicting audience behavior, it acts as an intelligent partner for your marketing team.",
+      "It&apos;s an all-in-one marketing platform that uses artificial intelligence to automate, analyze, and optimize your campaigns. From generating ad copy to predicting audience behavior, it acts as an intelligent partner for your marketing team.",
   },
   {
     question: "Is there a free trial available?",
@@ -46,9 +47,10 @@ const faqs = [
   {
     question: "How does the AI campaign generation work?",
     answer:
-      "You provide a simple prompt or goal (e.g., 'Launch a summer sale for our new shoe line'). Our AI then generates a complete campaign strategy, including target audience suggestions, ad copy variations, creative concepts, and budget allocation.",
+      "You provide a simple prompt or goal (e.g., &apos;Launch a summer sale for our new shoe line&apos;). Our AI then generates a complete campaign strategy, including target audience suggestions, ad copy variations, creative concepts, and budget allocation.",
   },
 ];
+
 
 // --- Animation Variants ---
 const containerVariants = {
