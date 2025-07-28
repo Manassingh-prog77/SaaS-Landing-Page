@@ -23,33 +23,35 @@ import { gradients } from "../../../../theme/theme"; // Ensure this path is corr
 
 // --- Data Structure for FAQs ---
 // --- Data Structure for FAQs ---
+// --- Data Structure for FAQs ---
 const faqs = [
   {
     question: "What exactly is the ADmyBRAND AI Suite?",
     answer:
-      "It's an all-in-one marketing platform that uses artificial intelligence to automate, analyze, and optimize your campaigns. From generating ad copy to predicting audience behavior, it acts as an intelligent partner for your marketing team.",
+      "It is a comprehensive marketing platform powered by artificial intelligence. It helps automate, analyze, and enhance your campaigns by generating ad copy, predicting audience behavior, and much more.",
   },
   {
     question: "Is there a free trial available?",
     answer:
-      "Absolutely! We offer a 14-day free trial on our Pro plan, with no credit card required. You can explore all the advanced features to see the value for yourself before committing.",
+      "Yes! We provide a 14-day free trial for the Pro plan with no credit card needed. You can explore all advanced features and experience the benefits before making any commitment.",
   },
   {
     question: "Can I cancel my subscription at any time?",
     answer:
-      "Yes. We believe in flexibility. You can easily upgrade, downgrade, or cancel your plan directly from your account dashboard at any time, hassle-free.",
+      "Absolutely. You have complete flexibility to upgrade, downgrade, or cancel your subscription from your account dashboard whenever you like, with no hassle.",
   },
   {
     question: "Which third-party tools can I integrate with?",
     answer:
-      "We support a wide range of native integrations, including Google Ads, Meta (Facebook) Ads, HubSpot, Salesforce, Slack, and more. Our API also allows for custom integrations.",
+      "We support various integrations including Google Ads, Meta Ads (Facebook), HubSpot, Salesforce, Slack, and many others. You can also use our API for custom integrations.",
   },
   {
     question: "How does the AI campaign generation work?",
     answer:
-      "You provide a simple prompt or goal (e.g., &lsquo;Launch a summer sale for our new shoe line&rsquo;). Our AI then generates a complete campaign strategy, including target audience suggestions, ad copy variations, creative concepts, and budget allocation.",
+      "You simply provide a prompt or goal, such as launching a summer sale. Our AI builds an entire campaign strategy including suggested audiences, ad copy options, creative ideas, and budget plans.",
   },
 ];
+
 
 
 
